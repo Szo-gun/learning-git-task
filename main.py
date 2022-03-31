@@ -9,3 +9,5 @@ list = str(zakupy.values())
 string = list.split()
 print(f" W sumie kupuję {len(string)} produktów")
 
+# Czy jest inny sposób niż konwersja na string?
+
