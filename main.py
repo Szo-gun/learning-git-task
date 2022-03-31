@@ -11,3 +11,5 @@ print(f" W sumie kupuję {len(string)} produktów")
 
 # Czy jest inny sposób niż konwersja na string?
 
+print("POZDRO")
+
